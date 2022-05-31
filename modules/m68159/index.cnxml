@@ -1,0 +1,743 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0">
+  <title>Equipotential Lines</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68159</md:content-id>
+  <md:title>Equipotential Lines</md:title>
+  <md:abstract><list>
+<item>Explain equipotential lines and equipotential surfaces.</item>
+<item>Describe the action of grounding an electrical appliance.</item>
+<item>Compare electric field and equipotential lines.</item>
+</list></md:abstract>
+  <md:uuid>81a72c0a-378a-40e4-8fd7-1ddafe645401</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1955021">We can represent electric potentials (voltages) pictorially, just as we drew pictures to illustrate electric fields. Of course, the two are related. Consider <link target-id="import-auto-id1665740"/>, which shows an isolated positive point charge and its electric field lines. Electric field lines radiate out from a positive charge and terminate on negative charges. While we use blue arrows to represent the magnitude and direction of the electric field, we use green lines to represent places where the electric potential is constant. These are called <term id="import-auto-id1598142">equipotential lines</term> in two dimensions, or <emphasis effect="italics">equipotential surfaces</emphasis> in three dimensions.  The term <emphasis effect="italics">equipotential</emphasis> is also used as a noun, referring to an equipotential line or surface. The potential for a point charge is the same anywhere on an imaginary sphere of radius <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> surrounding the charge. This is true since the potential for a point charge is given by <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kQ</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">/</m:mo><m:mi>r</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V= ital "kQ"/r} {}</m:annotation></m:semantics></m:math> and, thus, has the same value at any point that is a given distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> from the charge. An equipotential sphere is a circle in the two-dimensional view of <link target-id="import-auto-id1665740"/>. Since the electric field lines point radially away from the charge, they are perpendicular to the equipotential lines.</para><figure id="import-auto-id1665740"><media id="import-auto-id1537671" alt="The figure shows a positive charge Q at the center of four concentric circles of increasing radii. The electric potential is the same along each of the circles, called equipotential lines. Straight lines representing electric field lines are drawn from the positive charge to intersect the circles at various points. The equipotential lines are perpendicular to the electric field lines.">
+        <image mime-type="image/jpg" src="../../media/Figure_20_04_01a.jpg" width="200"/>
+      </media>
+
+   <caption>An isolated point charge <m:math><m:semantics><m:mrow><m:mrow><m:mi>Q</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q} {}</m:annotation></m:semantics></m:math> with its electric field lines in blue and equipotential lines in green. The potential is the same along each equipotential line, meaning that no work is required to move a charge anywhere along one of those lines. Work is needed to move a charge from one equipotential line to another. Equipotential lines are perpendicular to electric field lines in every case.<emphasis effect="bold"/> </caption></figure><para id="import-auto-id2554466">It is important to note that <emphasis effect="italics"><emphasis effect="italics">equipotential lines are always perpendicular to electric field lines</emphasis></emphasis><emphasis effect="italics">.</emphasis> No work is required to move a charge along an equipotential, since <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi>V</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{?`V`=`0} {}</m:annotation></m:semantics></m:math>. Thus the work is</para><equation id="eip-630"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>W</m:mi><m:mo stretchy="false">=</m:mo><m:mspace width="0.25em"/><m:mrow><m:mo stretchy="false">–Δ</m:mo></m:mrow></m:mrow><m:mrow><m:mrow><m:mtext>PE</m:mtext><m:mo stretchy="false">=</m:mo><m:mspace width="0.25em"/><m:mrow><m:mo stretchy="false">–</m:mo><m:mi fontstyle="italic">q</m:mi><m:mn>Δ</m:mn><m:mi>V</m:mi></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mo>.</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{W=-?"PE"=-q?V=0} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2633310">Work is zero if force is perpendicular to motion. Force is in the same direction as <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">E</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E} {}</m:annotation></m:semantics></m:math>, so that motion along an equipotential must be perpendicular to <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">E</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E} {}</m:annotation></m:semantics></m:math>. More precisely, work is related to the electric field by</para><equation id="eip-581"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                    <m:mi>W</m:mi>
+                    <m:mo stretchy="false"> = </m:mo>
+                    <m:mrow>
+                      <m:mtext fontstyle="italic">Fd </m:mtext>
+                    </m:mrow><m:mspace width="0.25em"/>
+                  <m:mtext> cos </m:mtext><m:mspace width="0.25em"/>
+                  <m:mi>θ</m:mi>
+                    <m:mo stretchy="false"> = </m:mo>
+                      <m:mtext fontstyle="italic">qEd</m:mtext><m:mspace width="0.25em"/>
+                  <m:mtext>cos</m:mtext><m:mspace width="0.25em"/>
+                  <m:mi>θ</m:mi>
+                  <m:mrow>
+                    <m:mo stretchy="false"> = </m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+<m:mo>.</m:mo>
+                </m:mrow>
+              </m:mrow>
+           
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{W=`` ital "Fd""cos"?`=` ital "qEd""cos"?`=0} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id1584438">Note that in the above equation,  <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mi>E</m:mi>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{E} {}</m:annotation>
+          </m:semantics>
+        </m:math>   and   <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mi>F</m:mi>
+              </m:mrow>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation>
+          </m:semantics>
+        </m:math>  symbolize the magnitudes of the electric field strength and force, respectively. Neither <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>q</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation></m:semantics></m:math></emphasis> nor <emphasis effect="bold"><m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">E</m:mtext></m:mrow><m:mrow/></m:mrow></m:semantics></m:math></emphasis> nor <m:math><m:semantics><m:mrow><m:mrow><m:mi>d</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> is zero, and so <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>cos</m:mtext><m:mspace width="0.25em"/><m:mi>θ</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> must be 0, meaning <m:math><m:semantics><m:mrow><m:mrow><m:mi>θ</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{?} {}</m:annotation></m:semantics></m:math> must be <m:math>
+ <m:semantics>
+  <m:mtext>90º</m:mtext>
+ </m:semantics>
+</m:math>. In other words, motion along an equipotential is perpendicular to <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">E</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E} {}</m:annotation></m:semantics></m:math>.</para><para id="import-auto-id2010655">One of the rules for static electric fields and conductors is that the electric field must be perpendicular to the surface of any conductor. This implies that a <emphasis effect="italics"><emphasis effect="italics">conductor is an equipotential surface in static situations</emphasis></emphasis><emphasis effect="italics">.</emphasis> There can be no voltage difference across the surface of a conductor, or charges will flow. One of the uses of this fact is that a conductor can be fixed at zero volts by connecting it to the earth with a good conductor—a process called <term id="import-auto-id3098122">grounding</term>. Grounding can be a useful safety tool. For example, grounding the metal case of an electrical appliance ensures that it is at zero volts relative to the earth.</para>
+    <note id="fs-id2957782"><label/>
+    <title>Grounding</title>
+    <para id="import-auto-id2680282">A conductor can be fixed at zero volts by connecting it to the earth with a good conductor—a process called grounding.</para>
+    </note>
+    <para id="import-auto-id2509786">Because a conductor is an equipotential, it can replace any equipotential surface. For example, in <link target-id="import-auto-id1665740"/> a charged spherical conductor can replace the point charge, and the electric field and potential surfaces outside of it will be unchanged, confirming the contention that a spherical charge distribution is equivalent to a point charge at its center.</para>
+    <para id="import-auto-id1597900"><link target-id="import-auto-id2749788"/> shows the electric field and equipotential lines for two equal and opposite charges. Given the electric field lines, the equipotential lines can be drawn simply by making them perpendicular to the electric field lines. Conversely, given the equipotential lines, as in <link target-id="import-auto-id2757381"/>(a), the electric field lines can be drawn by making them perpendicular to the equipotentials, as in <link target-id="import-auto-id2757381"/>(b).</para><figure id="import-auto-id2749788"><media id="import-auto-id1628530" alt="The figure shows two sets of concentric circles, called equipotential lines, drawn with positive and negative charges at their centers. Curved electric field lines emanate from the positive charge and curve to meet the negative charge. The lines form closed curves between the charges. The equipotential lines are always perpendicular to the field lines.">
+        <image mime-type="image/jpg" src="../../media/Figure_20_04_02a.jpg" width="250"/>
+      </media>
+
+         <caption>The electric field lines and equipotential lines for two equal but opposite charges. The equipotential lines can be drawn by making them perpendicular to the electric field lines, if those are known. Note that the potential is greatest (most positive) near the positive charge and least (most negative) near the negative charge. </caption></figure><figure id="import-auto-id2757381"><media id="import-auto-id2998902" alt="Figure (a) shows two circles, called equipotential lines, along which the potential is negative ten volts. A dumbbell-shaped surface encloses the two circles and is labeled negative five volts. This surface is surrounded by another surface labeled negative two volts. Figure (b) shows the same equipotential lines, each set with a negative charge at its center. Blue electric field lines curve toward the negative charges from all directions.">
+         <image mime-type="image/jpg" src="../../media/Figure_20_04_03a.jpg" width="400"/>
+      </media>
+
+    <caption>(a) These equipotential lines might be measured with a voltmeter in a laboratory experiment. (b) The corresponding electric field lines are found by drawing them perpendicular to the equipotentials. Note that these fields are consistent with two equal negative charges. </caption></figure><para id="import-auto-id1350356">One of the most important cases is that of the familiar parallel conducting plates shown in <link target-id="import-auto-id2004698"/>. Between the plates, the equipotentials are evenly spaced and parallel. The same field could be maintained by placing conducting plates at the equipotential lines at the potentials shown.</para><figure id="import-auto-id2004698"><media id="import-auto-id2739078" alt="The figure shows two parallel plates A and B separated by a distance d. Plate A is positively charged, and B is negatively charged. Electric field lines are parallel to one another between the plates and curved near the ends of the plates. The voltages range from a hundred volts at Plate A to zero volts at plate B.">
+        <image mime-type="image/jpg" src="../../media/Figure_20_04_04a.jpg" width="150"/>
+      </media>
+
+          <caption>The electric field and equipotential lines between two metal plates.</caption></figure><para id="import-auto-id2606713">An important application of electric fields and equipotential lines involves the heart. The heart relies on electrical signals to maintain its rhythm. The movement of electrical signals causes the chambers of the heart to contract and relax. When a person has a heart attack, the movement of these electrical signals may be disturbed. An artificial pacemaker and a defibrillator can be used to initiate the rhythm of electrical signals. The equipotential lines around the heart, the thoracic region, and the axis of the heart are useful ways of monitoring the structure and functions of the heart. An electrocardiogram (ECG) measures the small electric signals being generated during the activity of the heart. More about the relationship between electric fields and the heart is discussed in <link document="m42395">Energy Stored in Capacitors</link>.</para>
+    <note id="eip-689" class="interactive"><label/><title>PhET Explorations: Charges and Fields</title>
+<para id="eip-idm395886480">Move point charges around on the playing field and then view the electric field, voltages, equipotential lines, and more. It's colorful, it's dynamic, it's free.<newline/>
+<media id="eip-idm359563664" alt="charges and fields">
+<iframe width="660" height="371.4" src="https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html"/>
+</media>
+</para></note><section id="fs-id2629382" class="section-summary"><title>Section Summary</title><list id="import-auto-id3146766"><item>An equipotential line is a line along which the electric potential is constant.</item>
+<item>An equipotential surface is a three-dimensional version of equipotential lines.</item>
+
+<item id="import-auto-id2908098">Equipotential lines are always perpendicular to electric field lines.</item>
+    <item id="import-auto-id1315976">The process by which a conductor can be fixed at zero volts by connecting it to the earth with a good conductor is called grounding.</item>
+    </list></section><section id="eip-146"><title>Conceptual Questions</title><exercise id="fs-id2660782" type="conceptual-questions"><problem id="fs-id2660783">
+
+    <para id="import-auto-id2724146">Voltage is the common word for potential difference. Which term is more descriptive, voltage or potential difference?</para>
+    </problem></exercise>
+    <exercise id="fs-id2681166" type="conceptual-questions"><problem id="fs-id2681167">
+
+    <para id="import-auto-id2573648">If the voltage between two points is zero, can a test charge be moved between them with zero net work being done? Can this necessarily be done without exerting a force? Explain.</para>
+    </problem></exercise>
+    <exercise id="fs-id1350416" type="conceptual-questions"><problem id="fs-id1350417">
+
+    <para id="import-auto-id2632743">What is the relationship between voltage and energy? More precisely, what is the relationship between potential difference and electric potential energy?</para>
+    </problem></exercise>
+    <exercise id="fs-id2339284" type="conceptual-questions"><problem id="fs-id2339285">
+
+    <para id="import-auto-id2632751">Voltages are always measured between two points. Why?</para>
+    </problem></exercise>
+    <exercise id="fs-id2000410" type="conceptual-questions"><problem id="fs-id2000411">
+
+    <para id="import-auto-id2573988">How are units of volts and electron volts related? How do they differ?</para>
+    </problem></exercise>
+    
+    <exercise id="fs-id1570612" type="conceptual-questions"><problem id="fs-id2677260">
+
+    <para id="import-auto-id2677744">Discuss how potential difference and electric field strength are related. Give an example. </para>
+    </problem></exercise>
+    <exercise id="fs-id3080509" type="conceptual-questions"><problem id="fs-id1584974">
+
+    <para id="import-auto-id2608602">What is the strength of the electric field in a region where the electric potential is constant? </para>
+    </problem></exercise>
+    <exercise id="fs-id2558866" type="conceptual-questions"><problem id="fs-id1985613">
+
+    <para id="import-auto-id1937578">Will a negative charge, initially at rest, move toward higher or lower potential? Explain why. </para>
+    </problem></exercise>
+    
+    <exercise id="fs-id2705937" type="conceptual-questions"><problem id="fs-id3164411">
+    <para id="import-auto-id1996620">In what region of space is the potential due to a uniformly charged sphere the same as that of a point charge? In what region does it differ from that of a point charge?</para>
+    </problem></exercise>
+    <exercise id="fs-id2511493" type="conceptual-questions"><problem id="fs-id2533119">
+    <para id="import-auto-id1312990">Can the potential of a non-uniformly charged sphere be the same as that of a point charge? Explain.</para></problem></exercise>
+    
+    <exercise id="fs-id2664733" type="conceptual-questions"><problem id="fs-id2664787">
+
+    <para id="import-auto-id2726578">What is an equipotential line? What is an equipotential surface? </para>
+    </problem></exercise>
+    <exercise id="fs-id3105556" type="conceptual-questions"><problem id="fs-id2575515">
+
+    <para id="import-auto-id1515497">Explain in your own words why equipotential lines and surfaces must be perpendicular to electric field lines. </para>
+    </problem></exercise>
+      <exercise id="fs-id1356324" type="conceptual-questions">
+      <problem id="fs-id856980"><para id="fs-id2600986">Can different equipotential lines cross? Explain.</para></problem>
+</exercise>
+</section><section id="eip-170"><title>title</title><exercise id="fs-id1350363" type="problems-exercises"><problem id="fs-id1350364">    <para id="import-auto-id2602267">Find the ratio of speeds of an electron and a negative hydrogen ion (one having an extra electron) accelerated through the same voltage, assuming non-relativistic final speeds. Take the mass of the hydrogen ion to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>67</m:mtext><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">–</m:mo><m:mtext>27</m:mtext></m:mrow></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> kg</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "67"×"10" rSup { size 8{-"27"} } " kg" "." } {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id2393274">
+<para id="eip-id2393276">42.8</para>
+</solution></exercise><exercise id="fs-id2607118" type="problems-exercises"><problem id="fs-id2607119">    <para id="import-auto-id2657982">An evacuated tube uses an accelerating voltage of 40 kV to accelerate electrons to hit a copper plate and produce x rays.  Non-relativistically, what would be the maximum speed of these electrons?  </para></problem></exercise>
+    <exercise id="fs-id2595258" type="problems-exercises"><problem id="fs-id2595259">    <para id="import-auto-id2694260">A bare helium nucleus has two positive charges and a mass of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mtext>64</m:mtext><m:mi> × </m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mtext>–27</m:mtext></m:mrow></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> kg</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "64"×"10" rSup { size 8{-"27"} } " kg" "." } {}</m:annotation></m:semantics></m:math> (a) Calculate its kinetic energy in joules at 2.00% of the speed of light. (b) What is this in electron volts? (c) What voltage would be needed to obtain this energy?</para></problem></exercise>
+    <exercise id="fs-id2574445" type="problems-exercises"><problem id="fs-id2574446">    
+<para id="eip-id1972816"><emphasis>Integrated Concepts</emphasis> </para>
+
+<para id="import-auto-id2694470" fo:font-weight="normal">Singly charged gas ions are accelerated from rest through a voltage of 13.0 V. At what temperature will the average kinetic energy of gas molecules be the same as that given these ions? </para>
+    </problem>
+<solution id="fs-id2574052">
+    <para id="import-auto-id2694479"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>1</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>00</m:mtext>
+                  <m:mi>×</m:mi>
+                  <m:msup>
+                    <m:mtext>10</m:mtext>
+                    
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    
+                  </m:msup><m:mspace width="0.25em"/>
+                  <m:mtext> K</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{1 "." "00"×"10" rSup { size 8{5} } " K"} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </para></solution>
+    </exercise><exercise id="fs-id2634581" type="problems-exercises"><problem id="fs-id2634582"> 
+<para id="eip-id2513581"><emphasis>Integrated Concepts</emphasis> </para>
+   <para id="import-auto-id2550479">The temperature near the center of the Sun is thought to be 15 million degrees Celsius <m:math><m:semantics><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>1.5</m:mn><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>7</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:mn>ºC</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (3 "." 0×"10" rSup { size 8{7} } °C right )} {}</m:annotation></m:semantics></m:math>. Through what voltage must a singly charged ion be accelerated to have the same energy as the average kinetic energy of ions at this temperature?</para></problem></exercise><exercise id="fs-id2677893" type="problems-exercises"><problem id="fs-id2637475">  <para id="eip-id600704"><emphasis>Integrated Concepts</emphasis> </para>  <para id="import-auto-id2508460" fo:font-weight="normal">(a) What is the average power output of a heart defibrillator that dissipates 400 J of energy in 10.0 ms? (b) Considering the high-power output, why doesn’t the defibrillator produce serious burns?</para>
+    </problem>
+<solution id="fs-id2648832">
+    <para id="import-auto-id2693575">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> W</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4×"10" rSup { size 8{4} } " W"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2603394" fo:font-weight="normal">(b) A defibrillator does not cause serious burns because the skin conducts electricity well at high voltages, like those used in defibrillators. The gel used aids in the transfer of energy to the body, and the skin doesn’t absorb the energy, but rather lets it pass through to the heart.</para></solution>
+    </exercise><exercise id="fs-id2511020" type="problems-exercises"><problem id="fs-id2594663">  <para id="eip-id1351326"><emphasis>Integrated Concepts</emphasis> </para>  <para id="import-auto-id2595144">A lightning bolt strikes a tree, moving 20.0 C of charge through a potential difference of <m:math>
+ <m:semantics>
+  <m:mrow>
+    <m:mn>1.00</m:mn>
+    <m:mo>×</m:mo>
+   <m:msup>
+    <m:mtext>10</m:mtext>
+    <m:mtext>2</m:mtext>
+   </m:msup>
+   <m:mspace width="0.25em"/>
+   <m:mtext>MV</m:mtext>
+  </m:mrow>
+ </m:semantics>
+</m:math>. (a) What energy was dissipated? (b) What mass of water could be raised from <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>15ºC</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"°C} {}</m:annotation></m:semantics></m:math> to the boiling point and then boiled by this energy? (c) Discuss the damage that could be caused to the tree by the expansion of the boiling steam.</para></problem></exercise><exercise id="fs-id2003316" type="problems-exercises"><problem id="fs-id2003317"> <para id="eip-id2825325"><emphasis>Integrated Concepts</emphasis> </para>   <para id="import-auto-id2637890">A 12.0 V battery-operated bottle warmer heats 50.0 g of glass, <m:math>
+ <m:semantics>
+  <m:mrow>
+    <m:mn>2.50</m:mn>
+    <m:mo>×</m:mo>
+   <m:msup>
+    <m:mtext>10</m:mtext>
+    <m:mtext>2</m:mtext>
+   </m:msup>
+   <m:mspace width="0.25em"/>
+   <m:mtext>g</m:mtext>
+  </m:mrow>
+ </m:semantics>
+</m:math> of baby formula, and <m:math>
+ <m:semantics>
+  <m:mrow>
+    <m:mn>2.00</m:mn>
+    <m:mo>×</m:mo>
+   <m:msup>
+    <m:mtext>10</m:mtext>
+    <m:mtext>2</m:mtext>
+   </m:msup>
+   <m:mspace width="0.25em"/>
+   <m:mtext>g</m:mtext>
+  </m:mrow>
+ </m:semantics>
+</m:math> of aluminum from <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>20</m:mtext><m:mtext>.</m:mtext><m:mn>0ºC</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> to <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>90.0ºC</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90" "." 0°C} {}</m:annotation></m:semantics></m:math>. (a) How much charge is moved by the battery? (b) How many electrons per second flow if it takes 5.00 min to warm the formula? (Hint: Assume that the specific heat of baby formula is about the same as the specific heat of water.)</para></problem>
+<solution id="fs-id2595204">
+    <para id="import-auto-id1356494">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>40</m:mtext><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "40"×"10" rSup { size 8{3} } " C"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2635608">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>54</m:mtext><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>20</m:mtext></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext>  electrons per second</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "54"×"10" rSup { size 8{"20"} } " electrons"} {}</m:annotation></m:semantics></m:math></para></solution>
+    </exercise><exercise id="fs-id2606659" type="problems-exercises"><problem id="fs-id2554470">  <para id="eip-id1505062"><emphasis>Integrated Concepts</emphasis></para>   <para id="import-auto-id2693826">A battery-operated car utilizes a 12.0 V system. Find the charge the batteries must be able to move in order to accelerate the 750 kg car from rest to 25.0 m/s, make it climb a <m:math>
+ <m:semantics>
+  <m:mrow>
+    <m:mn>2.00</m:mn>
+    <m:mo>×</m:mo>
+   <m:msup>
+    <m:mtext>10</m:mtext>
+    <m:mtext>2</m:mtext>
+   </m:msup>
+   <m:mspace width="0.25em"/>
+   <m:mtext>m</m:mtext>
+  </m:mrow>
+ </m:semantics>
+</m:math> high hill, and then cause it to travel at a constant 25.0 m/s by exerting a <m:math>
+ <m:semantics>
+  <m:mrow>
+    <m:mn>5.00</m:mn>
+    <m:mo>×</m:mo>
+   <m:msup>
+    <m:mtext>10</m:mtext>
+    <m:mtext>2</m:mtext>
+   </m:msup>
+   <m:mspace width="0.25em"/>
+   <m:mtext>N</m:mtext>
+  </m:mrow>
+ </m:semantics>
+</m:math> force for an hour.</para></problem>
+<solution id="fs-id2576330">
+    <para id="import-auto-id2693835"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                
+                
+                  <m:mn>3.89</m:mn>
+                  <m:mi>×</m:mi>
+                  <m:msup>
+                    <m:mtext>10</m:mtext>
+                    
+                      <m:mrow>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                    
+                  </m:msup><m:mspace width="0.25em"/>
+                  <m:mtext> C</m:mtext>
+                </m:mrow>
+              </m:mrow>
+          </m:mrow>
+        </m:semantics>
+      </m:math> 
+    </para></solution>
+    </exercise><exercise id="fs-id1362960" type="problems-exercises"><problem id="fs-id1362962"> <para id="eip-id1759475"> <emphasis>Integrated Concepts</emphasis> </para>  <para id="import-auto-id2694668">Fusion probability is greatly enhanced when appropriate nuclei are brought close together, but mutual Coulomb repulsion must be overcome. This can be done using the kinetic energy of high-temperature gas ions or by accelerating the nuclei toward one another. (a) Calculate the potential energy of two singly charged nuclei separated by <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>00</m:mtext><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mtext>–12</m:mtext></m:mrow></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "00"×"10" rSup { size 8{-"12"} } " m"} {}</m:annotation></m:semantics></m:math> by finding the voltage of one at that distance and multiplying by the charge of the other. (b) At what temperature will atoms of a gas have an average kinetic energy equal to this needed electrical potential energy?</para></problem></exercise><exercise id="fs-id2723641" type="problems-exercises"><problem id="fs-id2723642"> <para id="eip-id2898897"><emphasis>Unreasonable Results</emphasis>   </para><para id="import-auto-id2693464">(a) Find the voltage near a 10.0 cm diameter metal sphere that has 8.00 C of excess positive charge on it. (b) What is unreasonable about this result? (c) Which assumptions are responsible?</para>
+    </problem>
+<solution id="eip-id2082835">
+<para id="eip-id2082838">(a) <m:math>
+ <m:semantics>
+  <m:mrow>
+    <m:mn>1.44</m:mn>
+    <m:mo>×</m:mo>
+   <m:msup>
+    <m:mtext>10</m:mtext>
+    <m:mtext>12</m:mtext>
+   </m:msup>
+   <m:mspace width="0.25em"/>
+   <m:mtext>V</m:mtext>
+  </m:mrow>
+ </m:semantics>
+</m:math></para><para id="eip-id1787039">(b) This voltage is very high. A 10.0 cm diameter sphere could never maintain this voltage; it would discharge.</para>
+<para id="eip-id1787044">(c) An 8.00 C charge is more charge than can reasonably be accumulated on a sphere of that size.</para>
+
+</solution></exercise><exercise id="fs-id2678910" type="problems-exercises"><problem id="fs-id2678911">  <para id="eip-id1660661"><emphasis>Construct Your Own Problem</emphasis></para>  <para id="import-auto-id2693475">Consider a battery used to supply energy to a cellular phone. Construct a problem in which you determine the energy that must be supplied by the battery, and then calculate the amount of charge it must be able to move in order to supply this energy. Among the things to be considered are the energy needs and battery voltage. You may need to look ahead to interpret manufacturer’s battery ratings in ampere-hours as energy in joules.</para>
+    </problem></exercise>
+<exercise id="eip-id1688468" type="problems-exercises"><problem id="eip-id1688471"><para id="eip-id1688472">Show that units of V/m and N/C for electric field strength are indeed equivalent. </para></problem></exercise>
+<exercise id="eip-id1688476" type="problems-exercises"><problem id="eip-id1521962"><para id="eip-id1521963">What is the strength of the electric field between two parallel conducting plates separated by 1.00 cm and having a potential difference (voltage) between them of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mn>V</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "50" times "10" rSup { size 8{4} } `V} {}</m:annotation></m:semantics></m:math>?</para></problem></exercise>
+
+<exercise id="fs-id2635926" type="problems-exercises"><problem id="fs-id1514530">    <para id="import-auto-id2723324">The electric field strength between two parallel conducting plates separated by 4.00 cm is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>50</m:mtext><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> V/m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "50"´"10" rSup { size 8{4} } " V/m"} {}</m:annotation></m:semantics></m:math>. (a) What is the potential difference between the plates? (b) The plate with the lowest potential is taken to be at zero volts. What is the potential 1.00 cm from that plate (and 3.00 cm from the other)?</para></problem>
+<solution id="fs-id1362631">
+    <para id="import-auto-id2806685">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mtext>00 kV</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "00"" kV"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id1727129">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>750 V</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"750"" V"} {}</m:annotation></m:semantics></m:math></para></solution>
+    </exercise>
+    <exercise id="fs-id2749816" type="problems-exercises"><problem id="fs-id2751112">    <para id="import-auto-id2576062">How far apart are two conducting plates that have an electric field strength of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>V/m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "50" times "10" rSup { size 8{3} } `"V/m"} {}</m:annotation></m:semantics></m:math> between them, if their potential difference is 15.0 kV?</para></problem></exercise>
+    <exercise id="fs-id2956436" type="problems-exercises"><problem id="fs-id1664993">    <para id="import-auto-id1564164">(a) Will the electric field strength between two parallel conducting plates exceed the breakdown strength for air (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3.0</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>V/m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times "10" rSup { size 8{6} } `"V/m"} {}</m:annotation></m:semantics></m:math>) if the plates are separated by 2.00 mm and a potential difference of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5.0</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>V</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 times "10" rSup { size 8{3} } `"V"} {}</m:annotation></m:semantics></m:math> is applied? (b) How close together can the plates be with this applied voltage?</para></problem>
+
+<solution id="eip-id2208045">
+<para id="eip-id2208048">(a) No. The electric field strength between the plates is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2.5</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>V/m, </m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2.5 times "10" rSup { size 8{6} } `"V/m"} {}</m:annotation></m:semantics></m:math> which is lower than the breakdown strength for air (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3.0</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>V/m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times "10" rSup { size 8{6} } `"V/m"} {}</m:annotation></m:semantics></m:math>).
+</para><para id="eip-id3052084">(b) 1.7 mm</para>
+</solution></exercise><exercise id="fs-id1956925" type="problems-exercises"><problem id="fs-id1676152">    <para id="import-auto-id2656762">The voltage across a membrane forming a cell wall is 80.0 mV and the membrane is 9.00 nm thick. What is the electric field strength? (The value is surprisingly large, but correct. Membranes are discussed in <link document="m42333">Capacitors and Dielectrics</link> and <link document="m42352">Nerve Conduction—Electrocardiograms</link>.) You may assume a uniform electric field.</para></problem>
+
+</exercise><exercise id="fs-id2573954" type="problems-exercises"><problem id="fs-id2635324">    <para id="import-auto-id3141216">Membrane walls of living cells have surprisingly large electric fields across them due to separation of ions. (Membranes are discussed in some detail in <link document="m42352">Nerve Conduction—Electrocardiograms</link>.) What is the voltage across an 8.00 nm–thick membrane if the electric field strength across it is 5.50 MV/m? You may assume a uniform electric field.</para></problem>
+<solution id="fs-id1538486">
+    <para id="import-auto-id1363987">44.0 mV</para>
+    </solution>
+    </exercise>
+    <exercise id="fs-id1636534" type="problems-exercises"><problem id="fs-id3087915">    <para id="import-auto-id2977451" fo:font-weight="normal">Two parallel conducting plates are separated by 10.0 cm, and one of them is taken to be at zero volts. (a) What is the electric field strength between them, if the potential 8.00 cm from the zero volt plate (and 2.00 cm from the other) is 450 V? (b) What is the voltage between the plates?</para>
+    </problem></exercise>
+    <exercise id="fs-id2705714" type="problems-exercises"><problem id="fs-id1667128">    <para id="import-auto-id2702894">Find the maximum potential difference between two parallel conducting plates separated by 0.500 cm of air, given the maximum sustainable electric field strength in air to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3.0</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>V/m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times "10" rSup { size 8{6} } `"V/m"} {}</m:annotation></m:semantics></m:math>.</para></problem>
+<solution id="fs-id1638150">
+    <para id="import-auto-id2688443">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mtext>15 kV</m:mtext>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"15 kV"} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </para>
+    </solution>
+    </exercise>
+    <exercise id="fs-id1563009" type="problems-exercises"><problem id="fs-id2756439">    <para id="import-auto-id2721949" fo:font-weight="normal">A doubly charged ion is accelerated to an energy of 32.0 keV by the electric field between two parallel conducting plates separated by 2.00 cm. What is the electric field strength between the plates?</para>
+    </problem></exercise>
+    <exercise id="fs-id1948894" type="problems-exercises"><problem id="fs-id2677744">    <para id="import-auto-id2840049">An electron is to be accelerated in a uniform electric field having a strength of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>V/m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "00" times "10" rSup { size 8{6} } `"V/m"} {}</m:annotation></m:semantics></m:math>. (a) What energy in keV is given to the electron if it is accelerated through 0.400 m? (b) Over what distance would it have to be accelerated to increase its energy by 50.0 GeV?</para></problem>
+<solution id="fs-id2607322">
+    <para id="import-auto-id2791118">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>800 KeV</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"800"" KeV"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id3166123">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>25.0 km</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"25" "." 0" km"} {}</m:annotation></m:semantics></m:math></para></solution>
+    </exercise>
+    
+    <exercise id="fs-id1677295" type="problems-exercises"><problem id="fs-id1989107">    <para id="import-auto-id3158768">A 0.500 cm diameter plastic sphere, used in a static electricity demonstration, has a uniformly distributed 40.0 pC charge on its surface. What is the potential near its surface?</para>
+    </problem>
+<solution id="eip-id2952050">
+<para id="eip-id2758657">144 V</para></solution></exercise><exercise id="fs-id1318401" type="problems-exercises"><problem id="fs-id1563750">    <para id="import-auto-id2911404">What is the potential 
+
+<m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>0</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>530</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>–10</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                <m:mspace width="0.25em"/>
+                  <m:mtext>m</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{0 "." "530" times "10" rSup { size 8{ - 10} } `m} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+
+ from a proton (the average distance between the proton and electron in a hydrogen atom)?</para></problem>    </exercise><exercise id="fs-id1516605" type="problems-exercises"><problem id="fs-id2975408">    <para id="import-auto-id1591409" fo:font-weight="normal">(a) A sphere has a surface uniformly charged with 1.00 C. At what distance from its center is the potential 5.00 MV? (b) What does your answer imply about the practical aspect of isolating such a large charge?</para>
+    </problem>
+
+<solution id="eip-id2628531">
+<para id="eip-id2628533">
+(a) 1.80 km
+</para>
+
+<para id="eip-id2518659">
+(b) A charge of 1 C is a very large amount of charge; a sphere of radius 1.80 km is not practical.
+</para>
+</solution></exercise><exercise id="fs-id1281542" type="problems-exercises"><problem id="fs-id2834320">    <para id="import-auto-id2574621">How far from a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>00 µC</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "00" mC} {}</m:annotation></m:semantics></m:math> point charge will the potential be 100 V? At what distance will it be <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>2.00</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mspace width="0.25em"/>
+                  <m:mtext>V</m:mtext>
+<m:mo>?</m:mo>
+                </m:mrow>
+              </m:mrow>
+            
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 "." "00" times "10" rSup { size 8{ 2} } `V} {}</m:annotation>
+        </m:semantics>
+      </m:math></para></problem></exercise><exercise id="fs-id963449" type="problems-exercises"><problem id="fs-id1637628">    <para id="import-auto-id2985150" fo:font-weight="normal">What are the sign and magnitude of a point charge that produces a potential of <m:math>
+ <m:semantics>
+  <m:mtext>–2.00 V</m:mtext>
+ </m:semantics>
+</m:math> at a distance of 1.00 mm?</para></problem>
+
+<solution id="eip-id2188544">
+
+<para id="eip-id930683"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>–2</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>22</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">–</m:mo>
+                            <m:mn>13</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mspace width="0.25em"/>
+                  <m:mtext>C</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 "." "22" times "10" rSup { size 8{ - 13} } `C} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+</para></solution></exercise><exercise id="fs-id1281900" type="problems-exercises"><problem id="fs-id1363380">    <para id="import-auto-id3039700" fo:font-weight="normal">If the potential due to a point charge is 
+
+<m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>5</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>00</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mspace width="0.25em"/>
+                  <m:mtext>V</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{5 "." "00" times "10" rSup { size 8{ 2} } `V} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+
+ at a distance of 15.0 m, what are the sign and magnitude of the charge?</para></problem>
+    </exercise><exercise id="fs-id2554432" type="problems-exercises"><problem id="fs-id1151542">    <para id="import-auto-id2957851">In nuclear fission, a nucleus splits roughly in half. (a) What is the potential 
+
+<m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>00</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">–</m:mo>
+                            <m:mn>14</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mspace width="0.25em"/>
+                  <m:mtext>m</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 "." "00" times "10" rSup { size 8{ - 14} } `m} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+
+from a fragment that has 46 protons in it? (b) What is the potential energy in MeV of a similarly charged fragment at this distance?</para></problem>
+
+<solution id="eip-id1775233">
+
+<para id="eip-id1775235">(a) <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>3</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>31</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>6</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mspace width="0.25em"/>
+                  <m:mtext>V</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3 "." "31" times "10" rSup { size 8{6} } `V} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+
+
+
+
+</para><para id="eip-id2964744">(b) 152 MeV
+</para></solution></exercise><exercise id="fs-id890041" type="problems-exercises"><problem id="fs-id1562240">    <para id="import-auto-id3107309" fo:font-weight="normal">A research Van de Graaff generator has a 2.00-m-diameter metal sphere with a charge of 5.00 mC on it. (a) What is the potential near its surface? (b) At what distance from its center is the potential 1.00 MV? (c) An oxygen atom with three missing electrons is released near the Van de Graaff generator. What is its energy in MeV at this distance?</para></problem></exercise><exercise id="fs-id1320070" type="problems-exercises"><problem id="fs-id2527889">    <para id="import-auto-id2600505" fo:font-weight="normal">An electrostatic paint sprayer has a 0.200-m-diameter metal sphere at a potential of 25.0 kV that repels paint droplets onto a grounded object. (a) What charge is on the sphere? (b) What charge must a 0.100-mg drop of paint have to arrive at the object with a speed of 10.0 m/s?</para></problem>
+
+<solution id="eip-id2570849">
+<para id="eip-id2570852">(a) <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>78</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                    <m:mo stretchy="false">-</m:mo>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mspace width="0.25em"/>
+                  <m:mtext>C</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 "." "78" times "10" rSup { size 8{-7} } `C} {}</m:annotation>
+        </m:semantics>
+      </m:math> </para><para id="eip-id2343580">(b) <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>2</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>00</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                    <m:mo stretchy="false">-</m:mo>
+                            <m:mn>10</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mspace width="0.25em"/>
+                  <m:mtext>C</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{2 "." "00" times "10" rSup { size 8{-10} } `C} {}</m:annotation>
+        </m:semantics>
+      </m:math> </para></solution></exercise><exercise id="fs-id1497489" type="problems-exercises"><problem id="fs-id1033446">    <para id="import-auto-id3167781">In one of the classic nuclear physics experiments at the beginning of the 20th century, an alpha particle was accelerated toward a gold nucleus, and its path was substantially deflected by the Coulomb interaction. If the energy of the doubly charged alpha nucleus was 5.00 MeV, how close to the gold nucleus (79 protons) could it come before being deflected?</para></problem></exercise>
+    <exercise id="fs-id1183848" type="problems-exercises"><problem id="fs-id2984651">    <para id="import-auto-id1540980">(a) What is the potential between two points situated 10 cm and 20 cm from a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>0 µC</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." 0 mC} {}</m:annotation></m:semantics></m:math> point charge? (b) To what location should the point at 20 cm be moved to increase this potential difference by a factor of two?</para></problem></exercise>
+
+<exercise id="eip-200" type="problems-exercises"><problem id="eip-35">
+<para id="eip-id2640726"> <emphasis>Unreasonable Results</emphasis></para>
+   <para id="eip-id1767627"> (a) What is the final speed of an electron accelerated from rest through a voltage of 25.0 MV by a negatively charged Van de Graaff terminal?</para>
+<para id="eip-id2057005">(b) What is unreasonable about this result? </para>
+<para id="eip-id2899769">(c) Which assumptions are responsible?</para>
+ 
+</problem>
+
+<solution id="eip-647">
+<para id="eip-id1598912">(a)  <m:math><m:semantics><m:mrow><m:mn>2.96</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>9</m:mn></m:msup><m:mspace width="0.25em"/><m:mtext>m/s</m:mtext></m:mrow></m:semantics></m:math></para><para id="eip-id1305472">(b) This velocity is far too great. It is faster than the speed of light.</para>
+<para id="eip-id2223518">(c) The assumption that the speed of the electron is far less than that of light and that the problem does not require a relativistic treatment produces an answer greater than the speed of light. </para>
+</solution>
+</exercise>
+ 
+<exercise id="fs-id2706239" type="problems-exercises"><problem id="fs-id2742439">
+
+    <para id="import-auto-id1332445">(a) Sketch the equipotential lines near a point charge + <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>q</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation></m:semantics></m:math></emphasis>. Indicate the direction of increasing potential. (b) Do the same for a point charge <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">–</m:mo><m:mn>3</m:mn><m:mspace width="0.25em"/></m:mrow><m:mi>q</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 3 "." "00"q} {}</m:annotation></m:semantics></m:math>. </para></problem></exercise>
+    <exercise id="fs-id2789845" type="problems-exercises"><problem id="fs-id989848">
+
+    <para id="import-auto-id2985617">Sketch the equipotential lines for the two equal positive charges shown in <link target-id="import-auto-id1536206"/>. Indicate the direction of increasing potential.</para><figure id="import-auto-id1536206"><media id="import-auto-id2678202" alt="The figure shows two positive charges with electric field lines curving away from each of the charges.">
+        <image mime-type="image/jpg" src="../../media/Figure_20_04_05a.jpg" width="250"/>
+      </media>
+
+    <caption>The electric field near two equal positive charges is directed away from each of the charges.</caption></figure></problem></exercise><exercise id="fs-id1292487" type="problems-exercises"><problem id="fs-id1362746">    <para id="import-auto-id1334538"><link target-id="import-auto-id2772911"/> shows the electric field lines near two charges <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>q</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>, the first having a magnitude four times that of the second. Sketch the equipotential lines for these two charges, and indicate the direction of increasing potential. </para></problem></exercise>
+    <exercise id="fs-id2500526" type="problems-exercises"><problem id="fs-id1166112">
+<para id="import-auto-id2836457">Sketch the equipotential lines a long distance from the charges shown in <link target-id="import-auto-id2772911"/>. Indicate the direction of increasing potential.</para><figure id="import-auto-id2772911"><media id="import-auto-id2506280" alt="The figure shows two nearby charges, q one and q two. Electric field lines move away from q two and toward q one.">
+        <image mime-type="image/jpg" src="../../media/Figure_20_04_06a.jpg" width="250"/>
+      </media>
+
+    <caption>The electric field near two charges.</caption></figure></problem></exercise>
+    <exercise id="fs-id1516086" type="problems-exercises"><problem id="fs-id1310961">
+
+    <para id="import-auto-id898212">Sketch the equipotential lines in the vicinity of two opposite charges, where the negative charge is three times as great in magnitude as the positive. See <link target-id="import-auto-id2772911"/> for a similar situation. Indicate the direction of increasing potential. </para></problem></exercise>
+    <exercise id="fs-id1492488" type="problems-exercises"><problem id="fs-id1996104">
+
+    <para id="import-auto-id2606798">Sketch the equipotential lines in the vicinity of the negatively charged conductor in <link target-id="import-auto-id1500503"/>. How will these equipotentials look a long distance from the object?</para>
+
+    <figure id="import-auto-id1500503"><media id="import-auto-id2820975" alt="The figure shows a negatively charged conductor that is shaped like an oblong.">
+        <image mime-type="image/jpg" src="../../media/Figure_20_04_07a.jpg" width="200"/>
+      </media>
+
+     <caption>A negatively charged conductor.</caption></figure></problem></exercise>
+    <exercise id="fs-id1964514" type="problems-exercises"><problem id="fs-id2753675">
+
+    <para id="import-auto-id1958311">Sketch the equipotential lines surrounding the two conducting plates shown in <link target-id="import-auto-id2837614"/>, given the top plate is positive and the bottom plate has an equal amount of negative charge. Be certain to indicate the distribution of charge on the plates. Is the field strongest where the plates are closest? Why should it be?</para>
+
+    <para id="import-auto-id2822347">
+      <figure id="import-auto-id2837614"><media id="import-auto-id1291270" alt="Two conducting plates with the top one positively charged and the bottom one with an equal amount of negative charge.">
+          <image mime-type="image/jpg" src="../../media/Figure_20_04_08a.jpg" width="150"/>
+        </media>
+
+           </figure></para>
+    </problem></exercise>
+    <exercise id="fs-id1350693" type="problems-exercises"><problem id="fs-id1285265">
+
+    <para id="import-auto-id2784630">(a) Sketch the electric field lines in the vicinity of the charged insulator in <link target-id="import-auto-id1359573"/>. Note its non-uniform charge distribution. (b) Sketch equipotential lines surrounding the insulator. Indicate the direction of increasing potential.</para>
+
+    <para id="import-auto-id2643526">
+      <figure id="import-auto-id1359573"><media id="import-auto-id1177405" alt="A rod marked with many plus symbols to indicate electric charge. Most of the pluses are concentrated near one end of the rod. A few are in the middle and one is at the other end.">
+          <image mime-type="image/jpg" src="../../media/Figure_20_04_09a.jpg" width="175"/>
+        </media>
+
+      <caption>A charged insulating rod such as might be used in a classroom demonstration.</caption></figure></para>
+    </problem></exercise>
+    <exercise id="fs-id1494380" type="problems-exercises"><problem id="fs-id2996287">
+
+    <para id="import-auto-id2511998">The naturally occurring charge on the ground on a fine day out in the open country is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>–1</m:mtext><m:mtext>.</m:mtext><m:mtext>00</m:mtext><m:mspace width="0.25em"/><m:msup><m:mtext>nC/m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"Š1" "." "00" "nC/m" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (a) What is the electric field relative to ground at a height of 3.00 m? (b) Calculate the electric potential at this height. (c) Sketch electric field and equipotential lines for this scenario.</para></problem></exercise>
+    <exercise id="fs-id2720527" type="problems-exercises"><problem id="fs-id2532903">
+
+    <para id="import-auto-id2747313">The lesser electric ray (<emphasis effect="italics"><emphasis effect="italics">Narcine bancroftii</emphasis></emphasis>)<emphasis effect="italics"/> maintains an incredible charge on its head and a charge equal in magnitude but opposite in sign on its tail (<link target-id="import-auto-id1284133"/>). (a) Sketch the equipotential lines surrounding the ray. (b) Sketch the equipotentials when the ray is near a ship with a conducting surface. (c) How could this charge distribution be of use to the ray?</para><figure id="import-auto-id1284133"><media id="import-auto-id2722290" alt="The figure shows a photo of a Narcine bancroftii, an electric ray that maintains a strong charge on its head and a charge equal in magnitude but opposite in sign on its tail.">
+        <image mime-type="image/png" src="../../media/Figure_20_04_10a.jpg" width="275"/>
+      </media>
+
+          <caption>Lesser electric ray (<emphasis effect="italics">Narcine bancroftii</emphasis>) (credit: National Oceanic and Atmospheric Administration, NOAA's Fisheries Collection).</caption></figure></problem></exercise>
+    </section>
+
+</content>
+      <glossary>
+    <definition id="import-auto-id1726866"><term>equipotential line</term> <meaning id="fs-id882942">a line along which the electric potential is constant</meaning></definition>
+    <definition id="import-auto-id3068372"><term>grounding</term> <meaning id="fs-id1048052">fixing a conductor at zero volts by connecting it to the earth or ground</meaning></definition>
+    </glossary>
+</document>

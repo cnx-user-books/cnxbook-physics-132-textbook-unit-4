@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+    <title>Electric Forces in Biology</title>
+    <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68150</md:content-id>
+  <md:title>Electric Forces in Biology</md:title>
+  <md:abstract><list>
+<item>Describe how a water molecule is polar.</item>
+<item>Explain electrostatic screening by a water molecule within a living cell.</item>
+</list></md:abstract>
+  <md:uuid>09669472-4834-424c-a4bb-6ca1d60bda06</md:uuid>
+</metadata>
+
+<content>
+        <exercise id="eip-454"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is included for further interest.</para></problem></exercise><para id="import-auto-id1602594">Classical electrostatics has an important role to play in modern molecular biology. Large molecules such as proteins, nucleic acids, and so on—so important to life—are usually electrically charged. DNA itself is highly charged; it is the electrostatic force that not only holds the molecule together but gives the molecule structure and strength. <link target-id="import-auto-id2445626"/> is a schematic of the DNA double helix.</para>
+        <figure id="import-auto-id2445626"><media id="import-auto-id2429302" alt="A double-helical D N A structure is shown in the figure.">
+                <image mime-type="image/png" src="../../media/Figure_19_06_02a.jpg" width="250"/>
+            </media>
+            
+        <caption>DNA is a highly charged molecule. The DNA double helix shows the two coiled strands each containing a row of nitrogenous bases, which “code” the genetic information needed by a living organism. The strands are connected by bonds between pairs of bases. While pairing combinations between certain bases are fixed (C-G and A-T), the sequence of nucleotides in the strand varies. (credit: Jerome Walker)</caption></figure><para id="import-auto-id1972538">The four nucleotide bases are given the symbols A (adenine), C (cytosine), G (guanine), and T (thymine). The order of the four bases varies in each strand, but the pairing between bases is always the same. C and G are always paired and A and T are always paired, which helps to preserve the order of bases in cell division (mitosis) so as to pass on the correct genetic information. Since the Coulomb force drops with distance (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">∝</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:msup><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F prop  {1} slash {r rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math>), the distances between the base pairs must be small enough that the electrostatic force is sufficient to hold them together.</para><para id="import-auto-id3102578">DNA is a highly charged molecule, with about <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mn>2</m:mn><m:msub><m:mi>q</m:mi><m:mrow><m:mtext>e</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q rSub { size 8{e} } } {}</m:annotation></m:semantics></m:math></emphasis> (fundamental charge) per <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." 3 times "10" rSup { size 8{ - 9} } } {}</m:annotation></m:semantics></m:math> m. The distance separating the two strands that make up the DNA structure is about 1 nm, while the distance separating the individual atoms within each base is about 0.3 nm.</para><para id="import-auto-id2669309">One might wonder why electrostatic forces do not play a larger role in biology than they do if we have so many charged molecules. The reason is that the electrostatic force is “diluted” due to <term id="import-auto-id3258573">screening</term> between molecules. This is due to the presence of other charges in the cell.</para>
+
+        <section id="fs-id2648248"><title>Polarity of Water Molecules</title><para id="import-auto-id2000340">The best example of this charge screening is the water molecule, represented as <m:math><m:semantics><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:semantics></m:math>. Water is a strongly <term id="import-auto-id1119077">polar molecule</term>. Its 10 electrons (8 from the oxygen atom and 2 from the two hydrogen atoms) tend to remain closer to the oxygen nucleus than the hydrogen nuclei. This creates two centers of equal and opposite charges—what is called a <term id="import-auto-id2052731">dipole</term>, as illustrated in <link target-id="import-auto-id1418508"/>. The magnitude of the dipole is called the dipole moment.</para><para id="import-auto-id1817766">These two centers of charge will terminate some of the electric field lines coming from a free charge, as on a DNA molecule. This results in a reduction in the strength of the <term id="import-auto-id3422726">Coulomb interaction</term>. One might say that screening makes the Coulomb force a short range force rather than long range.</para>
+        <para id="import-auto-id3401058">Other ions of importance in biology that can reduce or screen Coulomb interactions are <m:math><m:semantics><m:mrow><m:msup><m:mtext>Na</m:mtext><m:mn>+</m:mn></m:msup><m:mtext>,</m:mtext></m:mrow></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:msup><m:mtext>K</m:mtext><m:mn>+</m:mn></m:msup><m:mtext>,</m:mtext></m:mrow></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:msup><m:mtext>Cl</m:mtext><m:mn>–</m:mn></m:msup></m:mrow></m:semantics></m:math>. These ions are located both inside and outside of living cells. The movement of these ions through cell membranes is crucial to the motion of nerve impulses through nerve axons.</para><para id="import-auto-id2928688">Recent studies of electrostatics in biology seem to show that electric fields in cells can be extended over larger distances, in spite of screening, by “microtubules” within the cell. These microtubules are hollow tubes composed of proteins that guide the movement of chromosomes when cells divide, the motion of other organisms within the cell, and provide mechanisms for motion of some cells (as motors).</para>
+ 
+        
+
+                
+        
+        <figure id="import-auto-id1418508"><media id="import-auto-id901080" alt="Molecular structure of two water molecules is shown. Oxygen atom of one water molecule has minus delta on it and the Hydrogen atom of other water molecule has a positive delta charge on it. The force on attraction between these two atoms is shown as dotted line.">
+                <image mime-type="image/png" src="../../media/Figure_19_06_03a.jpg" width="200"/>
+            </media>
+            
+        <caption>This schematic shows water (<m:math><m:semantics><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:semantics></m:math>) as a polar molecule. Unequal sharing of electrons between the oxygen (O) and hydrogen (H) atoms leads to a net separation of positive and negative charge—forming a dipole. The symbols <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mi>δ</m:mi><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mi>δ</m:mi><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math> indicate that the oxygen side of the <m:math><m:semantics><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:semantics></m:math> molecule tends to be more negative, while the hydrogen ends tend to be more positive. This leads to an attraction of opposite charges between molecules.</caption></figure></section><section id="fs-id1446885" class="section-summary"><title>Section Summary</title><list id="fs-id1922676">
+        <item>Many molecules in living organisms, such as DNA, carry a charge.</item>
+<item>An uneven distribution of the positive and negative charges within a polar molecule produces a dipole.</item>
+<item>The effect of a Coulomb field generated by a charged object may be reduced or blocked by other nearby charged objects.</item>
+<item>Biological systems contain water, and because water molecules are polar, they have a strong effect on other molecules in living systems.</item>
+</list>
+        </section><section id="eip-202"><title>Conceptual Questions</title><exercise id="fs-id1882341" type="conceptual-questions"><problem id="fs-id2111168">
+
+    <para id="import-auto-id1859451">An eccentric inventor attempts to levitate by first placing a large negative charge on himself and then putting a large positive charge on the ceiling of his workshop. Instead, while attempting to place a large negative charge on himself, his clothes fly off. Explain.</para>
+    </problem></exercise>
+    <exercise id="fs-id1927138" type="conceptual-questions"><problem id="fs-id736943">
+
+    <para id="import-auto-id2079349">If you have charged an electroscope by contact with a positively charged object, describe how you could use it to determine the charge of other objects. Specifically, what would the leaves of the electroscope do if other charged objects were brought near its knob?</para>
+    </problem></exercise>
+    <exercise id="fs-id1833841" type="conceptual-questions"><problem id="fs-id1602307">
+    <para id="import-auto-id2084298">When a glass rod is rubbed with silk, it becomes positive and the silk becomes negative—yet both attract dust. Does the dust have a third type of charge that is attracted to both positive and negative? Explain.</para>
+    </problem></exercise>
+    <exercise id="fs-id1969333" type="conceptual-questions"><problem id="fs-id1912566">
+
+    <para id="import-auto-id2050311">Why does a car always attract dust right after it is polished? (Note that car wax and car tires are insulators.)</para>
+    </problem></exercise>
+    <exercise id="fs-id1982898" type="conceptual-questions"><problem id="fs-id1893269">
+    <para id="import-auto-id2283999">Describe how a positively charged object can be used to give another object a negative charge. What is the name of this process?</para>
+    </problem></exercise>
+    <exercise id="fs-id2234608" type="conceptual-questions"><problem id="fs-id1132185">
+<para id="import-auto-id1894480">What is grounding? What effect does it have on a charged conductor? On a charged insulator?</para>
+    </problem></exercise>
+    <exercise id="fs-id3047767" type="conceptual-questions"><problem id="fs-id1958513">
+
+    <para id="import-auto-id1118563">Why must the test charge <m:math><m:semantics><m:mrow><m:mrow><m:mi>q</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{q} {}</m:annotation></m:semantics></m:math> in the definition of the electric field be vanishingly small?</para>
+    </problem></exercise>
+        <exercise id="fs-id2668714" type="conceptual-questions"><problem id="fs-id2972867">
+
+    <para id="import-auto-id2450132">Are the direction and magnitude of the Coulomb force unique at a given point in space? What about the electric field?</para>
+    </problem></exercise></section><section id="eip-848"><title>title</title><exercise id="fs-id2853264" type="problems-exercises"><problem id="fs-id1606665">    <para id="import-auto-id1786010">Suppose a speck of dust in an electrostatic precipitator has <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>0000</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>12</m:mtext></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "0000" times "10" rSup { size 8{"12"} } } {}</m:annotation></m:semantics></m:math> protons in it and has a net charge of –5.00 nC (a very large charge for a small speck). How many electrons does it have?</para>
+    </problem>
+<solution id="fs-id1862300">
+    <para id="import-auto-id2078217"><m:math><m:semantics><m:mrow><m:mn>1.03</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>12</m:mn></m:msup></m:mrow></m:semantics></m:math></para></solution>
+    </exercise>
+    <exercise id="fs-id1966351" type="problems-exercises"><problem id="fs-id1668178">    <para id="import-auto-id2187631">An amoeba has <m:math><m:semantics><m:mrow><m:mn>1.00</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>16</m:mn></m:msup></m:mrow></m:semantics></m:math> protons and a net charge of 0.300 pC. (a) How many fewer electrons are there than protons? (b) If you paired them up, what fraction of the protons would have no electrons?</para></problem></exercise>
+    <exercise id="fs-id1606617" type="problems-exercises"><problem id="fs-id1633334">    <para id="import-auto-id1891260">A 50.0 g ball of copper has a net charge of <m:math><m:semantics><m:mrow><m:mn>2.00</m:mn><m:mspace width="0.25em"/><m:mi>µ</m:mi><m:mtext>C</m:mtext></m:mrow></m:semantics></m:math>. What fraction of the copper’s electrons has been removed? (Each copper atom has 29 protons, and copper has an atomic mass of 63.5.)</para></problem>
+<solution id="fs-id1447101">
+    <para id="import-auto-id1789676">
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>9</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>09</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>13</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{9 "." "09" times "10" rSup { size 8{ - "13"} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </para>
+    </solution>
+    </exercise>
+    <exercise id="fs-id855344" type="problems-exercises"><problem id="fs-id1668038">    <para id="import-auto-id1633040">What net charge would you place on a 100 g piece of sulfur if you put an extra electron on 1 in <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>12</m:mtext></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{"12"} } } {}</m:annotation></m:semantics></m:math> of its atoms? (Sulfur has an atomic mass of 32.1.)</para>
+    </problem></exercise>
+    <exercise id="eip-59" type="problems-exercises"><problem id="eip-384">
+  <para id="eip-702">
+    How many coulombs of positive charge are there in 4.00 kg of plutonium, given its atomic mass is 244 and that each plutonium atom has 94 protons?
+  </para>
+</problem>
+
+<solution id="eip-442">
+  <para id="eip-94"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>48</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>8</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>C</m:mtext></m:mrow></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "48" times "10" rSup { size 8{8} } } {}</m:annotation></m:semantics></m:math>
+  </para></solution>
+</exercise>
+<exercise id="fs-id1586790" type="problems-exercises"><problem id="fs-id3037335">    <para id="import-auto-id1908117">What is the magnitude and direction of an electric field that exerts a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mo>-</m:mo><m:mn>5</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>N</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "00" times "10" rSup { size 8{5} } N} {}</m:annotation></m:semantics></m:math> upward force on a <m:math><m:semantics><m:mrow><m:mn>–1.75</m:mn><m:mspace width="0.25em"/><m:mi>μ</m:mi><m:mtext>C</m:mtext></m:mrow></m:semantics></m:math> charge?</para></problem></exercise>
+        <exercise id="fs-id2989956" type="problems-exercises"><problem id="fs-id2684116">    <para id="import-auto-id2669656">What is the magnitude and direction of the force exerted on a <m:math><m:semantics><m:mrow><m:mn>3.50</m:mn><m:mspace width="0.25em"/><m:mi>μ</m:mi><m:mtext>C</m:mtext></m:mrow></m:semantics></m:math> charge by a 250 N/C electric field that points due east?</para></problem>
+<solution id="fs-id2990745">
+    <para id="import-auto-id1386271"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 "." "75" times "10" rSup { size 8{ - 4} } } {}</m:annotation></m:semantics></m:math> N</para>
+    </solution>
+    </exercise>
+        <exercise id="fs-id2588568" type="problems-exercises"><problem id="fs-id3042804">    <para id="import-auto-id1888472">Calculate the magnitude of the electric field 2.00 m from a point charge of 5.00 mC (such as found on the terminal of a Van de Graaff).</para>
+    </problem></exercise>
+        <exercise id="fs-id1537546" type="problems-exercises"><problem id="fs-id3073177">    <para id="import-auto-id1019372">(a) What magnitude point charge creates a 10,000 N/C electric field at a distance of 0.250 m? (b) How large is the field at 10.0 m?</para>
+    </problem>
+<solution id="fs-id2410613">
+    <para id="import-auto-id3398477">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>94</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {underline  {6 "." "94" times "10" rSup { size 8{ - 8} } " C"}} } {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id3122616">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mtext>25</m:mtext><m:mspace width="0.25em"/><m:mtext> N/C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {underline  {6 "." "25"" N/C"}} } {}</m:annotation></m:semantics></m:math></para></solution>
+    </exercise>
+        <exercise id="fs-id2001055" type="problems-exercises"><problem id="fs-id2392422">    <para id="import-auto-id2023850">Calculate the initial (from rest) acceleration of a proton in a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>N/C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 "." "00" times "10" rSup { size 8{6} } "N/C"} {}</m:annotation></m:semantics></m:math> electric field (such as created by a research Van de Graaff). Explicitly show how you follow the steps in the Problem-Solving Strategy for electrostatics.</para></problem></exercise>
+        <exercise id="fs-id2937300" type="problems-exercises"><problem id="fs-id2687821">    <para id="import-auto-id3042498">(a) Find the magnitude and direction of an electric field that exerts a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>80</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>N</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "80" times "10" rSup { size 8{ - "17"} } N} {}</m:annotation></m:semantics></m:math> westward force on an electron. (b) What magnitude and direction force does this field exert on a proton?</para></problem>
+<solution id="fs-id1599293">
+    <para id="import-auto-id1845690">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>300</m:mtext><m:mspace width="0.25em"/><m:mtext> N/C </m:mtext><m:mspace width="0.25em"/><m:mo stretchy="false">(</m:mo><m:mtext>east</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {underline  {"300"" N/C " \( "eas"}}  {underline  {t \) }} } {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2401155">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>80</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> N </m:mtext><m:mspace width="0.25em"/><m:mo stretchy="false">(</m:mo><m:mtext>east</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {underline  {4 "." "80" times "10" rSup { size 8{ - "17"} } " N " \( "east" \) }} } {}</m:annotation></m:semantics></m:math></para></solution>
+    </exercise></section></content>
+    <glossary>
+    <definition id="import-auto-id2588784"><term>dipole</term> <meaning id="fs-id2639339">a molecule’s lack of symmetrical charge distribution, causing one side to be more positive and another to be more negative</meaning></definition>
+    <definition id="import-auto-id2662934"><term>polar molecule</term> <meaning id="fs-id2647939">a molecule with an asymmetrical distribution of positive and negative charge</meaning></definition>
+    <definition id="import-auto-id2405078"><term>screening</term> <meaning id="fs-id3115668">the dilution or blocking of an electrostatic force on a charged object by the presence of other charges nearby</meaning></definition>
+    <definition id="import-auto-id2459061"><term>Coulomb interaction</term> <meaning id="fs-id2663807">the interaction between two charged particles generated by the Coulomb forces they exert on one another</meaning></definition>
+    </glossary>
+</document>

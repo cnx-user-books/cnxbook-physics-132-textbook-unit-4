@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Unit 3 on a page</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68171</md:content-id>
+  <md:title>Unit 3 on a page</md:title>
+  <md:abstract/>
+  <md:uuid>a0573de5-9bcf-46d6-be35-558753c0559d</md:uuid>
+</metadata>
+
+<content>
+    <exercise id="eip-529"><label/><title><media id="inote232i" alt="the umass logo" display="inline"><image mime-type="image/png" src="../../media/umass-logo5.png" width="300" print-width="3in"/></media></title><problem id="inote232p"><para id="inote232pp">This section is also available as a video on the <link url="https://www.youtube.com/channel/UCUMejMY1La0t8qi-jwFTyTw" window="new"> UMass Physics 13X YouTube page. </link> The link can be found <link url="https://youtu.be/YU2st-m-bJg" window="new"> here. </link></para></problem></exercise><para id="eip-509"><figure id="eip-idm221386528"><media id="import-auto-idm675613648" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-0eb3.png" width="300"/>
+      </media></figure></para><para id="import-auto-idm376186032">
+<list xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-idm486772464"><item>
+All charges generate electric fields <m:math display="block"><m:semantics><m:mover accent="true"><m:mi>E</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">vec{E}</m:annotation></m:semantics></m:math>(units N/C or V/m)</item>
+    <item id="import-auto-idm977733440">For a point charge <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:mo fence="true" stretchy="true">|</m:mo><m:mrow><m:mover accent="true"><m:mi>E</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:mo fence="true" stretchy="true">|</m:mo></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>4</m:mn><m:mi>π</m:mi><m:msub><m:mi>ε</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mfrac><m:mi>q</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">left lline widevec {E} right rline =  {1} over {4π {ε} rsub {0}} {q} over {{r} ^ {2}}</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm789762496">Point away from positive, towards negative</item>
+    <item id="import-auto-idm680081472">These are real and exist regardless if something is there to feel or not!</item>
+    <item id="import-auto-idm380996352">Put a charge in an electric field ⇒ it will feel a force <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mi>q</m:mi></m:mrow><m:mover accent="true"><m:mi>E</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover></m:mrow><m:annotation encoding="StarMath 5.0">widevec {F } =q widevec {E}</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm374629552">Can also think in terms of energy: All charges generate electric potentials <m:math display="block"><m:semantics><m:mi>V</m:mi><m:annotation encoding="StarMath 5.0">V</m:annotation></m:semantics></m:math> (units Volts)</item>
+    <item id="import-auto-idm756954512">For a point charge <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>4</m:mn><m:mi>π</m:mi><m:msub><m:mi>ε</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mfrac><m:mi>q</m:mi><m:mi>r</m:mi></m:mfrac></m:mrow><m:annotation encoding="StarMath 5.0">V =  {1} over {4π {ε} rsub {0}} {q} over {r}</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm762663056">Exists if something is there to feel or not!</item>
+    <item id="import-auto-idm709203376">Put a charge in a potential it has a potential energy <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mi>U</m:mi><m:mo stretchy="false">=</m:mo><m:mi>q</m:mi></m:mrow><m:mi>V</m:mi></m:mrow><m:annotation encoding="StarMath 5.0">U =q V</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-idm914196800">Electric potentials and electric fields are two sides of the same coin</item>
+    <item id="import-auto-idm956064704">Just like in P131: Can think of forces or energy</item>
+    <item id="import-auto-idm664084736"><m:math display="block"><m:semantics><m:mover accent="true"><m:mi>E</m:mi><m:mo stretchy="true">⃗</m:mo></m:mover><m:annotation encoding="StarMath 5.0">widevec {E}</m:annotation></m:semantics></m:math> points ‘down the potential hill’</item>
+    <item id="import-auto-idm719415232">
+      <m:math display="block">
+        <m:semantics>
+          <m:mrow>
+            <m:mi>E</m:mi>
+            <m:mo stretchy="false">=</m:mo>
+            <m:mfrac>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>V</m:mi>
+              </m:mrow>
+              <m:mrow>
+                <m:mi>Δ</m:mi>
+                <m:mi>x</m:mi>
+              </m:mrow>
+            </m:mfrac>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0">E= {Δ V} over {Δ x}</m:annotation>
+        </m:semantics>
+      </m:math>
+    </item>
+</list></para>
+    </content>
+</document>
