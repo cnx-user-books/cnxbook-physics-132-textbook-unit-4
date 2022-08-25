@@ -1,160 +1,49 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="UMass Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col25502</md:content-id>
-  <md:title>Physics 132 Textbook Unit 3</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>51217d5b-bbeb-4e34-81b4-c7e25dc043b9</md:uuid>
-<md:slug>physics-132-textbook-unit-4</md:slug>
-</metadata>
-
+    <md:content-id>col25502</md:content-id>
+    <md:title>Physics 132 Textbook Unit 3</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>51217d5b-bbeb-4e34-81b4-c7e25dc043b9</md:uuid>
+    <md:slug>physics-132-textbook-unit-4</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Introduction</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68171"/>
-        
-      
-    
-    
-      <col:module document="m68387"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Vector Review</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68143"/>
-        
-      
-    
-    
-      <col:module document="m68147"/>
-        
-      
-    
-    
-      <col:module document="m68144"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Electric Fields</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68152"/>
-        
-      
-    
-    
-      <col:module document="m68153"/>
-        
-      
-    
-    
-      <col:module document="m68334"/>
-        
-      
-    
-    
-      <col:module document="m68351"/>
-        
-      
-    
-    
-      <col:module document="m68154"/>
-        
-      
-    
-    
-      <col:module document="m68150"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Electric Potential</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m68324"/>
-        
-      
-    
-    
-      <col:module document="m68162"/>
-        
-      
-    
-    
-      <col:module document="m68157"/>
-        
-      
-    
-    
-      <col:module document="m68161"/>
-        
-      
-    
-    
-      <col:module document="m68159"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m68171"/>
+        <col:module document="m68387"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vector Review</md:title>
+      <col:content>
+        <col:module document="m68143"/>
+        <col:module document="m68147"/>
+        <col:module document="m68144"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Fields</md:title>
+      <col:content>
+        <col:module document="m68152"/>
+        <col:module document="m68153"/>
+        <col:module document="m68334"/>
+        <col:module document="m68351"/>
+        <col:module document="m68154"/>
+        <col:module document="m68150"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Potential</md:title>
+      <col:content>
+        <col:module document="m68324"/>
+        <col:module document="m68162"/>
+        <col:module document="m68157"/>
+        <col:module document="m68161"/>
+        <col:module document="m68159"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
